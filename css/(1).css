@@ -1,0 +1,14 @@
+img{
+    width: 450px;
+    display: block;
+    margin: 0 auto;
+}
+.we{
+    border:#FFD700 ;
+    border-style: dotted;
+    border-radius: 8px;
+    width: 550px;
+    margin: 0 auto;
+    border-width: 7px;
+    margin-top: 50px;
+}
